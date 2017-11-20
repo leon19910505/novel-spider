@@ -26,7 +26,7 @@ Python ，mongodb 的安装就不列出了，可自行百度
 
 # Config
 * 设置settings.py：
-```
+```Python
     添加去重的 middleware ，顺序要在pipline之前
     SPIDER_MIDDLEWARES = {
    'scrapy_deltafetch.DeltaFetch': 50, 

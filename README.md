@@ -40,3 +40,9 @@ Python ，mongodb 的安装就不列出了，可自行百度
     }
 
 ```
+# Run
+```
+    scrapy crawl dingdian
+```
+# 去重效果展示
+![](https://github.com/leon19910505/novel-spider/raw/master/show.png) 
